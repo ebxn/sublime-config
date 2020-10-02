@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Babel",
+		"Color Highlight",
+		"Emmet",
+		"Gitignore",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"ProjectManager",
+		"Pug",
+		"Sass",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-eslint",
+		"Tailwind CSS Autocomplete",
+		"TailwindCSSAutocomplete",
+		"Terminus",
+		"Vue Syntax Highlight"
+	]
+}

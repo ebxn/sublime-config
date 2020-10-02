@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<router-view :key="\$route.fullPath" />
+]]></content>
+<tabTrigger>vrv</tabTrigger>
+<description>Vue: router-view component</description>
+<scope>text.html.vue</scope>
+</snippet>

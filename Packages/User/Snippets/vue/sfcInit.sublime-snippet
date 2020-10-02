@@ -1,0 +1,16 @@
+<snippet>
+<content><![CDATA[
+<template>
+  ${0}
+</template>
+
+<script>
+export default {
+  name: '${1:Name}'
+}
+</script>
+]]></content>
+<tabTrigger>vinit</tabTrigger>
+<description>Vue: SFC Boilerplate</description>
+<scope>text.html.vue</scope>
+</snippet>

@@ -1,0 +1,19 @@
+<snippet>
+<content><![CDATA[
+import React, { Component } from 'react'
+
+export default class ${1:Name} extends Component {
+  constructor (props) {
+    super(props)
+    this.state = {}
+  }
+
+  render () {
+    return (${0})
+  }
+}
+]]></content>
+<tabTrigger>rcinit</tabTrigger>
+<description>React class component</description>
+<scope>source.js</scope>
+</snippet>
