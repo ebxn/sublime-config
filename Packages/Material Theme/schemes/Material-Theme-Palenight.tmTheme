@@ -73,8 +73,6 @@ a {
 				<string>#4E5579</string>
 			</dict>
 		</dict>
-
-    <!-- comments -->
 		<dict>
 			<key>name</key>
 			<string>Comments</string>
@@ -88,8 +86,6 @@ a {
 				<string>#676E95</string>
 			</dict>
 		</dict>
-
-    <!-- variables -->
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -151,8 +147,6 @@ a {
 				<string>#FFFFFF</string>
 			</dict>
 		</dict>
-
-    <!-- key words -->
 		<dict>
 			<key>name</key>
 			<string>Keyword, Storage</string>
@@ -169,13 +163,7 @@ a {
 			<string>Keyword, Storage</string>
 			<key>scope</key>
 			<string>storage.type, keyword.control</string>
-			<!-- <key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
-			</dict> -->
 		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>Operator, Misc</string>
@@ -1994,6 +1982,83 @@ a {
 				<string>#C7C7C7FF</string>
 				<key>foreground</key>
 				<string>#474747FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_42B983FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#42B983FF</string>
+				<key>foreground</key>
+				<string>#0F0F0FFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_00003219</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00003219</string>
+				<key>foreground</key>
+				<string>#A9A9A9FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_00000F0F</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000F0F</string>
+				<key>foreground</key>
+				<string>#ABABABFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_0F0F0FFF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#0F0F0FFF</string>
+				<key>foreground</key>
+				<string>#8F8F8FFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_8F8F8FFF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#8F8F8FFF</string>
+				<key>foreground</key>
+				<string>#0F0F0FFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_A9A9A9FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#A9A9A9FF</string>
+				<key>foreground</key>
+				<string>#292929FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_292929FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#292929FF</string>
+				<key>foreground</key>
+				<string>#A9A9A9FF</string>
 			</dict>
 		</dict>
 	</array>
